@@ -1,2 +1,14 @@
 # TamperMonkey
- Some TamperMonkey plugins What I wrote for my work
+本仓库用于存放个人工作中用到的油猴脚本，提升效率，
+
+## Swagger 
++ [自动添加授权](./swagger/index.js)
+
+> 具有不适应性，读者若使用的话，请根据实际情况修改
+
+## 精锐教育
++ [辅助评课插件](./onesmart/index.js)
+
+> 提供题目随机选择的功能，快速勾选错误 & 评判星级
+
+
